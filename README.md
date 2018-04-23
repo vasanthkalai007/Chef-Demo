@@ -1,2 +1,2 @@
 # Chef-Demo
-Chef Demo project
+Initial stage of the project
